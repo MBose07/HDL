@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Study/Codes_Me/Verilog/ALU/ALU.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Study/Codes_Me/Verilog/ALU/ALU.srcs/sim_1/new/tb_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_alu
+WARNING: [VRFC 10-2096] empty statement in sequential block [D:/Study/Codes_Me/Verilog/ALU/ALU.srcs/sim_1/new/tb_alu.v:49]
